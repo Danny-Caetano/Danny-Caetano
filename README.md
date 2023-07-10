@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Danny Caetano 👋 
-- 😄 Atualmente estudando ADS
-- 💻 Me dedicando a me tornar dev 
-- 💡 Tentando entender o Git Hub
+- 😄 Aprendiz de desenvolvimento 
+- 💻 Me dedicando no html e css 
+- 💡 Tentando entender Javascript e Phyton
+- 💻 Futura Desenvolvedora Fullstack
 - 💫 Apaixonada por animações em css
 - ⚡ Adoro Front-End
  <div>
