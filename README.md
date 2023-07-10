@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Danny Caetano 👋 
-- 😄 Atualmente estudando Análise e Desenvolvimento de Sistemas
+- 😄 Atualmente estudando ADS
 - 💻 Me dedicando a me tornar dev 
 - 💡 Tentando entender o Git Hub
 - 💫 Apaixonada por animações em css
